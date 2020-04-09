@@ -1,0 +1,4 @@
+node_modules/**/*
+fetch-project/**/*
+web-build/
+web-report/
